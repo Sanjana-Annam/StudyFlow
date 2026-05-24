@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow private app pages from search indexing
+Disallow: /dashboard
+Disallow: /planner
+Disallow: /analytics
+Disallow: /settings
+
+Sitemap: https://study-flow-rho-nine.vercel.app/sitemap.xml

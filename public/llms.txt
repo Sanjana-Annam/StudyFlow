@@ -1,0 +1,27 @@
+# StudyFlow
+
+> StudyFlow is a free, web-based smart study planner and Pomodoro timer for students.
+
+## What is StudyFlow?
+
+StudyFlow helps students manage their study time effectively. It combines a Pomodoro timer, study session planner, distraction logger, and exam goal tracker in a single web application.
+
+## Key Features
+
+- **Pomodoro Timer** — Focus sessions with configurable work/break intervals
+- **Study Planner** — Schedule and manage upcoming study sessions by subject and exam date
+- **Distraction Logger** — Track and categorize distractions to improve focus over time
+- **Analytics** — View study time trends, distraction patterns, and goal progress
+- **Gamification** — Earn badges and streaks for consistent study habits
+
+## Who is it for?
+
+School and university students preparing for exams who want to study smarter, not harder.
+
+## Technology
+
+Built with Next.js, React, TypeScript, and Firebase. Deployed on Vercel.
+
+## URL
+
+https://study-flow-rho-nine.vercel.app
